@@ -61,12 +61,13 @@ By utilizing ServiceNow’s workflow automation and data management capabilities
 
 ---
 
-<b><font color="#1C1C1C" size="4">🎬 Demo Video</font></b>
-🎥 *[Click here to watch the demo](https://youtube.com/shorts/VsI1kMCAfqA?si=wbQOdn8EvFeRwNyC)*
+<b><font color="#1C1C1C" size="4">🎬 Demo Video</font></b>  
 
-Or embed a clickable thumbnail below 👇
+🎥 [Click here to watch the demo](https://youtube.com/shorts/VsI1kMCAfqA?si=wbQOdn8EvFeRwNyCb)
 
-[![Watch the video](https://img.youtube.com/vi/example/0.jpg)](https://youtube.com/shorts/VsI1kMCAfqA?si=wbQOdn8EvFeRwNyC)
+Or embed a clickable thumbnail below 👇  
+
+[![Watch the video](https://img.youtube.com/vi/VsI1kMCAfqA/0.jpg)](https://youtube.com/shorts/VsI1kMCAfqA?si=wbQOdn8EvFeRwNyCb)
 
 ---
 
